@@ -88,3 +88,13 @@ h2,p{
 .post2 h1{
     color: #626262;
 }
+.news-content{
+    width: 300px;
+    margin: 0 auto;
+    background-color: #EFEFEF;
+    height: 300px;
+}
+.news-content input{
+    border: none;
+    border-bottom: 1px solid saddlebrown;
+}
